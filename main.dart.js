@@ -34900,7 +34900,7 @@ P(a){var s,r,q,p=this
 if(p.d)return new A.ue(new A.a3s(p),null)
 s=p.e
 if(s===$){r=A.d([],t.s)
-q=new A.W9("messages.json",new A.Dz())
+q=new A.W9("https://moamen-omar123.github.io/tulip-garden/messages.json",new A.Dz())
 p.e!==$&&A.as()
 s=p.e=new A.PA(new A.Dz(),q,new A.Eb(),r)}return new A.qU(s,null)}}
 A.a3s.prototype={
